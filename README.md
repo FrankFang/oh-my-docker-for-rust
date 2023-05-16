@@ -7,7 +7,7 @@ Oh My Docker
 
 ## 使用方法
 
-见 https://github.com/FrankFang/oh-my-env-1
+见 https://github.com/FrankFang/oh-my-rust-env
 
 ## 功能介绍
 
